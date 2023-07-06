@@ -33,4 +33,19 @@
 	- PyQt5 설치 
 	- QtDesigner 설치 및 실행 확인
 	- 하드웨어 제어 - GPIO
-	
+
+## 5일차 
+- 라즈베리파이 학습
+	- 네트워크 셋팅 (VNC)
+	- RGB LED / 버튼 클릭  
+
+## 6일차 
+- 라즈베리파이 학습 
+	- MQTT 통신
+		- MQTT Broker IP, port 설정
+		- RPi <--> WPF
+
+## 7일차 
+- 라즈베리파이 학습
+	- 파이 카메라 v1.3 ov5647
+	- OpenCV 4.7

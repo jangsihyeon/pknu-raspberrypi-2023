@@ -3,9 +3,9 @@ import RPi.GPIO as GPIO
 import time
 
 is_run = True
-red = 17
-green = 27
-blue = 22
+red = 18
+green = 15
+blue = 14
 
 
 GPIO.setmode(GPIO.BCM)
